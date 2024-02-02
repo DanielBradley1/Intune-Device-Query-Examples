@@ -1,0 +1,2 @@
+LocalUserAccount
+| where WindowsSid contains 'S-1-5'
