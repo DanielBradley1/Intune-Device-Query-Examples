@@ -1,1 +1,1 @@
-# Intune-Device-Query-Examples
+# Intune Device Query Examples
